@@ -8,3 +8,7 @@ It focuses on the analysis of two review data streams of Amazon products: The fi
 
 Labeled dataset construction workflow:
 ![Screenshot](flussoOr.png)
+
+For more information about the methodology and performances refer to the papaer [Unmask inflated product reviews through Machine Learning](https://ieeexplore.ieee.org/document/9493576).
+
+In this repository you will find the application used for the scraping of comments implemented with Apache NiFi and a Jupyter Notebook with some EDA of the generated dataset, and the diferent models performances.
